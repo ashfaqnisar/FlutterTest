@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512650874407",
+    "firebase_url": "https://zenco-project.firebaseio.com",
+    "project_id": "zenco-project",
+    "storage_bucket": "zenco-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512650874407:android:9b37191562fcf78176c802",
+        "android_client_info": {
+          "package_name": "com.example.devicemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512650874407-ftphssrbu1qbffvoqje26suosbjbojos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JgNrUYMO5xRw13yLefTAkgMITPwL0-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512650874407-l3unmtl2tcagku3h68vmpq56999clthv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
